@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>798664007838-kspttc160v3h7n68a6s5vm8k446il2v5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.798664007838-kspttc160v3h7n68a6s5vm8k446il2v5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>798664007838-c1vr2knev8bim0cqpqf6q6cfa48aamob.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfeKN46H56gMcPjKY4SXyi3cMgZ85nrG0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>798664007838</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ppgia.higain</string>
+	<key>PROJECT_ID</key>
+	<string>hi-gain-7jou78</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hi-gain-7jou78.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:798664007838:ios:7ce1b0b0ca3409537a5b8f</string>
+</dict>
+</plist>

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "798664007838",
+    "project_id": "hi-gain-7jou78",
+    "storage_bucket": "hi-gain-7jou78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798664007838:android:4de3b84ab9af0fe17a5b8f",
+        "android_client_info": {
+          "package_name": "com.ppgia.higain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798664007838-c1vr2knev8bim0cqpqf6q6cfa48aamob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ppgia.higain",
+            "certificate_hash": "041ac229570922492b3d8d7baadfc32f328c1314"
+          }
+        },
+        {
+          "client_id": "798664007838-frbus1hfgqrpb4uod9cpmme69ibq9r97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ppgia.higain",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "798664007838-dkv823em3k32a31a3nksdfnb3t1d0stn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcduk4WuzP7sXpXYc4uPe6-8fTQ_M1wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798664007838-dkv823em3k32a31a3nksdfnb3t1d0stn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798664007838-59ub7ttq6s79bcv20br7cm2ufdk4cvfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.higain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
