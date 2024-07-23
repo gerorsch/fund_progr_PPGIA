@@ -1,7 +1,5 @@
 # hiGain
 
-A new Flutter project.
+A social network to bodybuilders.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Projeto da disciplina Fundamentos de Programação Aplicada, do PPGIA/UFRPE, ministrada pelo Professor Gilberto Amado de Azevedo Cysneiros Filho.
